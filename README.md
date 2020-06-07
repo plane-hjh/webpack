@@ -8,4 +8,4 @@ webpack4 基本配置以及使用指南，一步一步玩转webpack配置，以�
 
 2. [一个简单的 webpack 例子](https://github.com/plane-hjh/webpack/issues/2)
 
-3. [我是如何一步步搞懂 webpack](https://github.com/plane-hjh/webpack/issues/3)
+3. [如何一步步搞懂 webpack](https://github.com/plane-hjh/webpack/issues/3)
